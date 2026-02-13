@@ -1,0 +1,5 @@
+datasets==4.5.0
+spacy==3.8.11
+ipykernel==7.2.0
+prettytable==3.17.0
+gliner2==1.2.4
