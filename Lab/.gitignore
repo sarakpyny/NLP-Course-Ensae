@@ -214,3 +214,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Ignore embedding files of lab2
+nlp-lab2-text-embedding/data/
+
+# lab3
+# spaCy training output
+training_output/
+*.spacy
+
+# large models
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+
+# data
+/nlp-lab3-ner/corpus
