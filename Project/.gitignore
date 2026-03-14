@@ -216,6 +216,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # data
-data/
 nltk_data/
+legislatives/
+presidentielle/
 
